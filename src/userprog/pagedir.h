@@ -1,5 +1,5 @@
-#ifndef USERPROG_PAGEDIR_H
-#define USERPROG_PAGEDIR_H
+#ifndef USERPROG_PAGEDIR_H // If USERPROG_PAGEDIR_H not defined ....
+#define USERPROG_PAGEDIR_H // ... define USERPROG_PAGEDIR_H like this (below)
 
 #include <stdbool.h>
 #include <stdint.h>
